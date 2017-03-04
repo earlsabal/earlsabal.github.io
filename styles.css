@@ -1,3 +1,12 @@
 body {
 	background: red;
 }
+
+img {
+	display: flex;
+	justify-content: center;
+	border: 2px solid black;
+	background-color: white;
+	padding: 25px;
+	margin: 0 auto;
+}
